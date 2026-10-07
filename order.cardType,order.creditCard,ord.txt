@@ -1,0 +1,2 @@
+order.cardType,order.creditCard,order.expiryDate,order.billToFirstName,order.billToLastName,order.billAddress1,order.billAddress2,order.billCity,order.billState,order.billZip,order.billCountry
+Visa,999 9999 9999 9999,12/03,ABC,XYX,901 San Antonio Road,MS UCUP02-206,Palo Alto,CA,94303,USA
